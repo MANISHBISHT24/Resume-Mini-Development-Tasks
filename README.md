@@ -36,3 +36,26 @@ Different types of buttons with CSS styling and hover effects.
 
 - HTML
 - CSS
+#FOLDER STRUCTURE
+- resume/
+│
+├── index.html
+├── style.css
+├── README.md
+│
+├── learnings/
+│   └── css.md
+│
+└── projects/
+    │
+    ├── profile-card/
+    │   ├── index.html
+    │   └── style.css
+    │
+    ├── navbar/
+    │   ├── index.html
+    │   └── style.css
+    │
+    └── buttons/
+        ├── index.html
+        └── style.css
