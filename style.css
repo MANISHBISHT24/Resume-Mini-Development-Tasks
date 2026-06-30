@@ -1,0 +1,148 @@
+body{
+    background:#f2f2f2;
+    font-family:Arial;
+}
+
+
+
+.resume{
+    width:350px;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 5px 15px #aaa;
+}
+
+button{
+    background: #7b2cbf;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+
+button:hover{
+    background:#5a189a ;
+}
+
+
+.card{
+
+    width: 280px;
+    text-align: center;
+    background: white;
+    padding: 25px;
+    margin: 50px auto;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px gray;
+
+}
+
+img{
+
+    border-radius: 50px;
+
+}
+
+
+button{
+
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    background: #e76f51;
+    color: white;
+
+}
+
+
+button:hover{
+
+    background: #f4a261;
+
+}
+
+body{
+    margin: 0;
+    font-family: Arial;
+}
+
+
+nav{
+
+    background: #222;
+    padding: 20px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+}
+
+
+h2{
+
+    color: #e76f51;
+
+}
+
+a{
+
+   color: white; 
+   text-decoration: none;
+}
+
+a:hover{
+
+    color: #e76f51;
+
+}
+
+button{
+
+    padding: 12px 25px;
+    margin: 20px;
+    cursor: pointer;
+
+}
+
+.solid{
+
+    background: #7b2cbf;
+    color: white;
+    border: none;
+
+}
+
+.outline{
+
+    background: rgb(150, 6, 6);
+    border: 2px solid purple;
+
+}
+
+.pill{
+
+    border-radius: 30px;
+    background: #e76f51;
+    color: white;
+    border: none;
+
+}
+
+.accent{
+    
+    background: orange;
+    border:none;
+
+}
+
+button:hover{
+
+    transform: scale(1.1);
+
+}
